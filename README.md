@@ -2,8 +2,8 @@
 https://to-do-list-pritanb.vercel.app/
 
 # Description
-A project I used to learn the basics of web development and deploy my first functioning application. 
-I wanted to build my to-do list so I would actually use it to keep up with tasks. 
+A project I used to learn the basics of web development and deploy my first application. 
+I wanted to build myself a to-do list so I would actually use it to keep up with tasks. 
 
 ## Frameworks/Libaries Used:
   - HTML
